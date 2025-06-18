@@ -9,7 +9,7 @@ const projects = [
     year: "June2025",
     align: "right",
     image: "../../public/images/Home.png",
-    link: "https://www.figma.com/design/hbx7bRtEWqoGQgRvWn4dHc/Food-Bank-project-1?node-id=0-1&t=cD9H4hqQB7bxyuax-1",
+    link: "https://www.figma.com/file/hbx7bRtEWqoGQgRvWn4dHc/Food-Bank-project-1?type=design&node-id=0-1&mode=design&t=cD9H4hqQB7bxyuax-1",
   },
   {
     name: "Moola App",
