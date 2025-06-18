@@ -8,7 +8,7 @@ const projects = [
     name: "Food Bank UI/UX",
     year: "June2025",
     align: "right",
-    image: "../../public/images/website-img-1.jpg",
+    image: "../../public/images/Home.png",
     link: "https://www.figma.com/design/hbx7bRtEWqoGQgRvWn4dHc/Food-Bank-project-1?node-id=0-1&t=cD9H4hqQB7bxyuax-1",
   },
   {
